@@ -2,7 +2,11 @@
 
 # YouTube
 # IP-CIDR,199.16.158.0/24,no-resolve
-
+DOMAIN,*.googlevideo.com
+DOMAIN,i.ytimg.com
+DOMAIN,*.ytimg.com
+DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
 
