@@ -1,7 +1,8 @@
 # 视频流媒体等列表
 
 # YouTube
-# IP-CIDR,199.16.158.0/24,no-resolve
+IP-CIDR,199.16.158.0/24,no-resolve
+DOMAIN-SUFFIX,ggpht.com
 DOMAIN,*.googlevideo.com
 DOMAIN-KEYWORD,ytimg
 DOMAIN,i.ytimg.com
