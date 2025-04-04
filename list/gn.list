@@ -13,3 +13,12 @@ DOMAIN,btsow.pics
 # 域名后缀匹配
 DOMAIN-SUFFIX,t88j.com
 DOMAIN-SUFFIX,btsow.pics
+
+# 种子猫 国内
+DOMAIN-SUFFIX,torrentkitty.one
+DOMAIN,torrentkitty.one
+DOMAIN-SUFFIX,torrentkitty.live
+DOMAIN-SUFFIX,torrentkitty.ink
+DOMAIN-SUFFIX,torrentkitty.asia
+DOMAIN-SUFFIX,torrentkitty.cam
+DOMAIN-SUFFIX,torrentkitty.dev
