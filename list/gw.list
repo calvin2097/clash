@@ -1,0 +1,30 @@
+# 匹配国外列表
+
+# 谷歌
+DOMAIN-SUFFIX,google.com
+DOMAIN-KEYWORD,google
+DOMAIN,google.com
+
+
+# 油猴
+DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-KEYWORD,greasyfork
+DOMAIN,greasyfork.org
+
+# 油猴H
+DOMAIN-SUFFIX,sleazyfork.org
+DOMAIN-KEYWORD,sleazyfork
+DOMAIN,sleazyfork.org
+
+# twitter
+DOMAIN-SUFFIX,twitter.com
+DOMAIN,x.com
+DOMAIN-SUFFIX,x.com
+
+# ins
+DOMAIN-SUFFIX,instagram.com
+
+#  种子猫 国外
+DOMAIN-SUFFIX,torrentkitty.tv
+DOMAIN-SUFFIX,torrentkitty.io
+DOMAIN-SUFFIX,torkitty.net
