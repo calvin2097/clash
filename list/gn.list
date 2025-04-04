@@ -1,0 +1,15 @@
+# 匹配国内列表
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,t88j
+DOMAIN-KEYWORD,btsow
+
+# 域名匹配
+DOMAIN,t88j.com
+DOMAIN,www.t88j.com
+DOMAIN,btsow.pics
+
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,t88j.com
+DOMAIN-SUFFIX,btsow.pics
