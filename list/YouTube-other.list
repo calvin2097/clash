@@ -1,13 +1,14 @@
 # 视频流媒体等列表
 
 # YouTube
-DOMAIN-SUFFIX,i.ytimg.com
-IP-CIDR,199.16.158.0/24,no-resolve
-DOMAIN,*.googlevideo.com
 DOMAIN-KEYWORD,ytimg
 DOMAIN-KEYWORD,youtube
-DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-KEYWORD,googlevideo
 DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,nytimg.com
+DOMAIN-SUFFIX,i.ytimg.com
+DOMAIN-SUFFIX,googlevideo.com
+IP-CIDR,199.16.158.0/24,no-resolve
+
+
 
 
