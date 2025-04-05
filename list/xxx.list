@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,teenfidelity.com
 # Aylo
 DOMAIN-SUFFIX,pornhub.com
 # pornhub video
+IP-CIDR,103.28.54.102/24,no-resolve
 DOMAIN-SUFFIX,trafficjunky.com
 DOMAIN-SUFFIX,etahub.com
 DOMAIN-SUFFIX,ei.phncdn.com
