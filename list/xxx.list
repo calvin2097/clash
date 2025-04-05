@@ -44,15 +44,17 @@ DOMAIN-SUFFIX,5kteens.com
 DOMAIN-SUFFIX,teenfidelity.com
 
 # Aylo
-DOMAIN,cn.pornhub.com
 DOMAIN-SUFFIX,pornhub.com
-DOMAIN,www.brazzers.com
+# pornhub video
+DOMAIN-SUFFIX,trafficjunky.com
+DOMAIN-SUFFIX,etahub.com
+DOMAIN-SUFFIX,phncdn.com
+
 DOMAIN-SUFFIX,brazzers.com
 DOMAIN-SUFFIX,redtube.com
 DOMAIN-SUFFIX,youporn.com
 DOMAIN-SUFFIX,digitalplayground.com
 DOMAIN-SUFFIX,DOMAIN-SUFFIX,mofos.com
-DOMAIN,www.realitykings.com
 DOMAIN-SUFFIX,realitykings.com
 DOMAIN-SUFFIX,twistys.com
 
